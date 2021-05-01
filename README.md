@@ -1,3 +1,4 @@
 # diff-practice
 Git講座
-変更staging用　first
+変更working用　first
+変更working用　second
